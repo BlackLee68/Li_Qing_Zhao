@@ -1,0 +1,7 @@
+/home/black/torch/install/lib/luarocks/rocks/hdf5/0-0/lua/hdf5/testUtils.lua
+/home/black/torch/install/lib/luarocks/rocks/hdf5/0-0/lua/hdf5/dataset.lua
+/home/black/torch/install/lib/luarocks/rocks/hdf5/0-0/lua/hdf5/group.lua
+/home/black/torch/install/lib/luarocks/rocks/hdf5/0-0/lua/hdf5/init.lua
+/home/black/torch/install/lib/luarocks/rocks/hdf5/0-0/lua/hdf5/ffi.lua
+/home/black/torch/install/lib/luarocks/rocks/hdf5/0-0/lua/hdf5/datasetOptions.lua
+/home/black/torch/install/lib/luarocks/rocks/hdf5/0-0/lua/hdf5/file.lua
