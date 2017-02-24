@@ -19,7 +19,7 @@
 # Generate the Lyrics
 
   DO IT IN COMMAND LINE
- 
+  
   ## precessing the data
   
   python scripts/preprocess.py --input_txt data/Li_Qing_Zhao.txt --output_h5 Li_Qing_Zhao.h5 --output_json Li_Qing_Zhao.json
